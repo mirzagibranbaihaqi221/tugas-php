@@ -1,0 +1,23 @@
+<html>
+		<head>
+		</head>
+					<body>
+							< form action ="" method = "post" >
+							
+							
+							<label>
+									nilai:<input type="number" name="nilai" value = "<?php echo isset($_POST['nilai'])?$_POST['nilai']:"";?> />
+							</label>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					</body>
+
+
+</html>
